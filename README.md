@@ -7,5 +7,5 @@ HW2.15分鐘解說影片:https://youtu.be/CxhR2jdDNMc\
             2.新增對話功能與對話清單
             3.新增轉盤功能
             4.加入genimi-2.5-pro模型可做選擇
-            5.更動常用問題並新增健康料理快捷鍵]()
+            5.更動常用問題並新增健康料理快捷鍵](https://github.com/41371103hjnh/introductuon-to-the-internet/blob/main/AItest.tsx)
             
