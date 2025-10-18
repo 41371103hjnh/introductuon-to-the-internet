@@ -10,5 +10,5 @@
              3.新增轉盤功能  
              4.加入genimi-2.5-pro模型可做選擇  
              5.更動常用問題並新增健康料理快捷鍵  
-## HW3.[React專案與個人網頁整合](https://github.com/41371103hjnh/my-app-my-webside)  
+## HW3.React專案與個人網頁整合[GitHub Repo](https://github.com/41371103hjnh/my-app-my-webside)  
 (影片與說明在此Repo的Readme內)
