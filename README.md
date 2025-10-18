@@ -9,3 +9,4 @@ HW2.15分鐘解說影片:https://youtu.be/CxhR2jdDNMc
              3.新增轉盤功能\
              4.加入genimi-2.5-pro模型可做選擇\
              5.更動常用問題並新增健康料理快捷鍵
+HW3.React專案與個人網頁整合：https://github.com/41371103hjnh/my-app-my-webside
