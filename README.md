@@ -12,5 +12,5 @@
              5.更動常用問題並新增健康料理快捷鍵  
 ## HW3.React專案與個人網頁整合[GitHub Repo](https://github.com/41371103hjnh/my-app-my-webside)  
 (影片與說明在此Repo的Readme內)
-## HW4.[雲端部署- Render](https://my-app-my-webside-render.onrender]  
+## HW4.[雲端部署- Render](https://my-app-my-webside-render.onrender)  
 [連結的repo](https://github.com/41371103hjnh/my-app-my-webside)
