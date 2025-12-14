@@ -1,6 +1,13 @@
 # 114-1 🌐網際網路概論
 授課教師：蔡芸琤老師  
 姓名：何佳恩 系級：科技系二年級  
+## 期末專題展示
+專題名稱：NutriWeather    
+組員姓名與學號：41371103H何佳恩、41371112H蔡欣育  
+線上網站網址：https://web-nutri-git-main-nnjns-projects.vercel.app/  
+YouTube 影片連結：https://www.youtube.com/watch?v=csbmBc2-Dp8  
+專題程式碼 GitHub Repo 連結：https://github.com/41371103hjnh/web-nutri  
+
 ## HW1.[我的個人網頁](https://41371103hjnh.github.io/introductuon-to-the-internet)  
 用HTML與JavaScript創建我的第一個靜態個人網頁，並佈署到GitHub Page
 ## HW2.透過cURL與AI互動[15分鐘解說影片](https://youtu.be/CxhR2jdDNMc)  
